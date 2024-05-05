@@ -12,7 +12,7 @@ Pull the contents of this repo into a local directory. Navigate to the directory
 
 Type 'node index.js' into the command line to run the program. It will ask you a series of questions and then generate a logo.svg file based on your answers. The logo will be stored in the /examples folder to be renamed or moved.
 
-Link to video of app in use: 
+Link to video of app in use: https://drive.google.com/file/d/1n6AD1WtwOQhrjRDaZMSEC2EHyRjVpJMX/view
 
 ## License
 
