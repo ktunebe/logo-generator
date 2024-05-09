@@ -1,4 +1,4 @@
-#10-logo-generator
+# 10-logo-generator
 
 ## Description
 
