@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a project for UW in which we were asked to create a logo generator. Using Node.js and the Inquirer package, the user is prompted for up to three characters of text and the color of that text. They are then given the choice between a circle, square or triangle and the color they would like the shape to be. A logo.svg file is then generated based on the user responses and stored in the /examples folder.
+This is a project for UW Bootcamp in which we were asked to create a logo generator. Using Node.js and the Inquirer package, the user is prompted for up to three characters of text and the color of that text. They are then given the choice between a circle, square or triangle and the color they would like the shape to be. A logo.svg file is then generated based on the user responses and stored in the /examples folder.
 
 ## Installation
 
