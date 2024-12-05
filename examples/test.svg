@@ -1,0 +1,16 @@
+<svg 
+  width="400" height="100" 
+  viewBox="0 0 100 100" 
+  xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @font-face {
+      font-family: 'Montserrat';
+      src: url('https://fonts.gstatic.com/s/montserrat/v26/JTUQjIg1_i6t8kCHKm45_QphziTn89dtpQ.woff2') format('woff2');
+    }
+  </style>
+  <path d="M70 20 A30 30 0 1 0 67 50" fill="none" stroke="black" stroke-width="3" />
+  <text x="20" y="50" font-family="Arial, sans-serif" font-size="40" font-weight="400" fill="black">M</text>
+  <text x="70" y="59" font-family="Geneva, Arial, sans-serif" font-size="70" font-weight="100" fill="black">M</text>
+  <text x="120" y="59" font-family="Montserrat, sans-serif" font-size="70" font-weight="100" fill="black">R</text>
+  <text x="165" y="59" font-family="Arial, sans-serif" font-size="70" font-weight="400" fill="black">I</text>
+</svg>
